@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669544524 source:d:\aditi\code\project\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
